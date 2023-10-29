@@ -1,0 +1,67 @@
+body{
+    background-image: url("/Streaming/img/fundo/quarto2.png");
+    background-repeat: no-repeat;
+    background-position: fixed;
+    background-attachment: fixed;
+}
+
+/* cor do menu */
+.cor1{
+    background-color: rgb(34, 32, 32);
+}
+
+h1 {
+    text-align: center;
+    padding-top: 30px;
+    color:rgb(255, 255, 255);
+}
+
+h4, h5 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.card {
+    width: 500px;
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.774);
+    box-shadow: rgb(0, 123, 255) 0px 20px 30px -10px;
+}
+
+.card-title, .card-text {
+    color: white;
+}
+
+.card:hover {
+    cursor: pointer;
+}
+
+.modal {
+    transition: 0.5s;
+    background-color: transparent;
+}
+
+.modal-title {
+    color: black;
+}
+.modal-body {
+    background-color: transparent;
+}
+
+p {
+    text-align: center;
+}
+
+.card-img-top {
+    border-radius: 30px;
+}
+
+.col-md-3 {
+    width: 310px;
+    padding-bottom: 30px;
+    
+}
